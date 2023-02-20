@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL:
+- Solution URL: https://vitorinoalves.github.io/frontEndMentor_QRCode/
 
 ## My process
 For this project first I created the content first (the card) and then with the card created I worked on the position.
