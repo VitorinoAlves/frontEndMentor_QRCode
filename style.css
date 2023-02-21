@@ -7,12 +7,12 @@ body{
 h1{
     color: hsl(218, 44%, 22%);
     font-weight: 700;
-    font-size: 25px;
+    font-size: 1.5em;
 }
 
 p{
     color: hsl(220, 15%, 55%);
-    font-size: 15px;
+    font-size: 1em;
     font-weight: 400;
 }
 
